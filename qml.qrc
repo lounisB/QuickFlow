@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/menu.svg</file>
+        <file>img/param.svg</file>
+        <file>img/logo.png</file>
+        <file>img/logo.ico</file>
+        <file>home.qml</file>
+        <file>editrestapi.qml</file>
+        <file>img/logo_transparent.png</file>
+        <file>AboutDialog.qml</file>
+    </qresource>
+</RCC>
